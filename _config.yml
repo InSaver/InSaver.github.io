@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: InSaver's homepage
+exclude:
+  - "*.json"          # 排除所有 .json 加密文件
+  - "secret-data/"   # 或者直接排除整个存放加密文件的文件夹
